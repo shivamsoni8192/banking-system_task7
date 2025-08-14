@@ -111,3 +111,5 @@ Customer Privacy View → Shows masked email/phone for active customers.
 📌 SQL Developer Internship – Elevate Labs
 📍 Focus Area: Banking & Finance Analytics
 
+link - https://github.com/shivamsoni8192/banking-system_task7
+
